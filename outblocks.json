@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/outblocks/outblocks-cli/releases/download/v0.1.1/outblocks-0.1.1-windows_386.zip",
+            "bin": [
+                "ok.exe"
+            ],
+            "hash": "e8103048c2aae81eacc33ebe468bd319b2758d7e3309538a6f527ee5dc362822"
+        },
+        "64bit": {
+            "url": "https://github.com/outblocks/outblocks-cli/releases/download/v0.1.1/outblocks-0.1.1-windows_amd64.zip",
+            "bin": [
+                "ok.exe"
+            ],
+            "hash": "e8bfa0c97041525a942dfe5c49a3715bc5370d0285aac68affb6658d0c7954f3"
+        }
+    },
+    "homepage": "https://outblocks.io",
+    "license": "MIT",
+    "description": "Auto devops."
+}
