@@ -1,19 +1,19 @@
 {
-    "version": "0.1.29",
+    "version": "0.1.30",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/outblocks/outblocks-cli/releases/download/v0.1.29/outblocks-0.1.29-windows_386.zip",
+            "url": "https://github.com/outblocks/outblocks-cli/releases/download/v0.1.30/outblocks-0.1.30-windows_386.zip",
             "bin": [
                 "ok.exe"
             ],
-            "hash": "964469147d3ef7777f335d4c1ecd7108b8738f68b9851e87f1634d8e0009396a"
+            "hash": "32688a8e2b4fc3c50e3e4495bf03a374262e42c7f0807805cffa7d10769a8392"
         },
         "64bit": {
-            "url": "https://github.com/outblocks/outblocks-cli/releases/download/v0.1.29/outblocks-0.1.29-windows_amd64.zip",
+            "url": "https://github.com/outblocks/outblocks-cli/releases/download/v0.1.30/outblocks-0.1.30-windows_amd64.zip",
             "bin": [
                 "ok.exe"
             ],
-            "hash": "05653cd95c84bf0a0d8578653786bec1de643c037771eee9c4c5023e5d57ffa5"
+            "hash": "3c554a9881b6b1912831544881c4f2f79accf43d2a0d2ca8337f9188fa02523a"
         }
     },
     "homepage": "https://outblocks.io",
