@@ -1,26 +1,26 @@
 {
-    "version": "0.1.153",
+    "version": "0.1.154",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/outblocks/outblocks-cli/releases/download/v0.1.153/outblocks-0.1.153-windows_386.zip",
+            "url": "https://github.com/outblocks/outblocks-cli/releases/download/v0.1.154/outblocks-0.1.154-windows_386.zip",
             "bin": [
                 "ok.exe"
             ],
-            "hash": "a64f93c1ceaaa6b73f909926cd2bf6bb1ca83accbee98e94720651604b624cd3"
+            "hash": "176a892f3f56232aabf3dfd9cb416890a913d3f5dcfd48d2ff81735742b9d7ab"
         },
         "64bit": {
-            "url": "https://github.com/outblocks/outblocks-cli/releases/download/v0.1.153/outblocks-0.1.153-windows_amd64.zip",
+            "url": "https://github.com/outblocks/outblocks-cli/releases/download/v0.1.154/outblocks-0.1.154-windows_amd64.zip",
             "bin": [
                 "ok.exe"
             ],
-            "hash": "a6696604107c151c9173c2983361c071722015cd163f8a6c95c670449fa699dc"
+            "hash": "0341f6fbe072e658cfeccf62a959d1138a80792565c115ed8d4d9c22b639c74a"
         },
         "arm64": {
-            "url": "https://github.com/outblocks/outblocks-cli/releases/download/v0.1.153/outblocks-0.1.153-windows_arm64.zip",
+            "url": "https://github.com/outblocks/outblocks-cli/releases/download/v0.1.154/outblocks-0.1.154-windows_arm64.zip",
             "bin": [
                 "ok.exe"
             ],
-            "hash": "26f46af7cf012f5eaab303d2e892b90d915df04a87343d0d2d21018af49d2151"
+            "hash": "348e1e0ea1a41db85d608c8d67a9c0539e865623148a890127f6a13d7430eca8"
         }
     },
     "homepage": "https://outblocks.io",
